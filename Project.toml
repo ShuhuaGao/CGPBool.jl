@@ -1,0 +1,7 @@
+name = "CGPBool"
+uuid = "34e17789-1975-47aa-aaa7-719802a3199b"
+authors = ["Gao Shuhua <shuhua_gao@u.nus.edu>"]
+version = "0.1.0"
+
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
